@@ -2,5 +2,5 @@ package com.javakc.git;
 
 public class TestGit {
 
-    private String name2;
+    private String name3;
 }
